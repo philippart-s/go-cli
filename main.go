@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/philippart-s/go-cli/cmd"
+	"github.com/philippart-s/gocli/cmd"
 )
 
 func main() {
